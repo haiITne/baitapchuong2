@@ -1,0 +1,6 @@
+5
+1 B1901234 Nguyen Van A 8.0 7.5
+2 B1905678 Tran Thi B 6.5 8.0
+3 B1909101 Le Van C 7.5 6.0
+4 B1901122 Hoang Thi D 9.0 8.5
+5 B1902233 Pham Van E 5.0 6.0
